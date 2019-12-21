@@ -3,7 +3,7 @@ from RepositoryManager import RepositoryManagerClass
 
 repo = RepositoryManagerClass()
 
-FOLDER_DIR = 'fruit/'
+FOLDER_DIR = 'natural_images/fruit/'
 
 FOLDER_TO_PROCESS = 'imageRepository/'
 

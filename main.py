@@ -3,7 +3,7 @@ import os
 from ImageData import ImageObject
 from RepositoryManager import RepositoryManagerClass
 
-FOLDER_DIR = 'fruit/'
+FOLDER_DIR = 'natural_images/fruit/'
 
 FOLDER_TO_PROCESS = 'new/'
 

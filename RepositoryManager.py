@@ -17,7 +17,7 @@ COLORS = {
 
 
 class RepositoryManagerClass:
-    FOLDER_DIR = 'fruit/'
+    FOLDER_DIR = 'natural_images/fruit/'
 
     WORKING_DIR = 'imageRepository/'
 
